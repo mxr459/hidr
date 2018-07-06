@@ -27,5 +27,6 @@ hidr(par0_list, X, nlm_Bound = list(low = c(0.05, 0.05, 0.05, 0.5, 0.5, 0.5,
 The function measures reproducibility of hierarchical structured data (e.g ChIP-seq data from different labs with multiple replicates).
 }
 \details{
-Please refer \bold{paper}
+Please refer \bold{``A statistical framework for measuring replicability of heterogeneous omics data from multiple labs'' by Ranalli, Lyu, and Li
+}
 }
