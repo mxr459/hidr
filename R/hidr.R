@@ -14,7 +14,8 @@
 #' 
 #' @param verbose Set verbose to TURE to show details of s selection.
 #' 
-#' @details Please refer \bold{paper}
+#' @details Please refer \bold{``A statistical framework for measuring replicability of heterogeneous omics data from multiple labs'' by Ranalli, Lyu, and Li
+}
 #' @export
 
 
